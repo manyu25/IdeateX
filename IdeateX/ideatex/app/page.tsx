@@ -170,7 +170,7 @@ export default function HomePage() {
           </div>
           <div>
             <a
-              href="https://github.com/your-org"
+              href="https://github.com/manyu25/IdeateX"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-purple-600 flex items-center gap-1"
